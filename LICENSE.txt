@@ -1,193 +1,193 @@
 A2LONY OPEN LICENSE
 
-Versión 1.0 — RC1
+Version 1.0 — RC2
 
-1. OBJETO Y ALCANCE
+1. PURPOSE AND SCOPE
 
-Esta licencia establece los permisos y condiciones aplicables a la obra que un titular de derechos identifique expresamente como distribuida bajo la A2lony Open License, Versión 1.0 RC1 (la «Licencia»).
+This license establishes the permissions and conditions applicable to material that a rights holder expressly identifies as distributed under the A2lony Open License, Version 1.0 RC2 (the “License”).
 
-La Licencia se aplica únicamente al material sobre el cual cada otorgante tenga facultades suficientes para conceder los derechos indicados. No cambia las licencias de los componentes de terceros incluidos o distribuidos junto con la obra.
+The License applies only to material over which each Licensor has sufficient authority to grant the rights stated here. It does not change the licenses of third-party components included in or distributed with the Work.
 
-2. DEFINICIONES
+2. DEFINITIONS
 
-«Obra»: el software y otros materiales identificados expresamente por su titular como sujetos a esta Licencia, en código fuente, forma ejecutable u otra forma protegida.
+“Work” means software or other material expressly identified by its rights holder as subject to this License, in source code, executable form, or any other protected form.
 
-«Otorgante»: toda persona física o jurídica que, siendo titular o estando suficientemente autorizada, concede permisos sobre la Obra o una Contribución bajo esta Licencia.
+“Licensor” means any natural person or legal entity that, as a rights holder or as a person with sufficient authority, grants permissions concerning the Work or a Contribution under this License.
 
-«Destinatario»: toda persona física o jurídica que recibe la Obra o ejerce los permisos otorgados por esta Licencia.
+“Recipient” means any natural person or legal entity that receives the Work or exercises permissions granted by this License.
 
-«Contribución»: una modificación, adición u otro material expresamente ofrecido por su titular para incorporarse a la Obra bajo esta Licencia.
+“Contribution” means a modification, addition, or other material expressly offered by its rights holder for incorporation into the Work under this License.
 
-«Material cubierto»: la Obra y las Contribuciones sujetas a esta Licencia, con exclusión de los componentes sujetos a condiciones jurídicas diferentes.
+“Covered Material” means the Work and Contributions subject to this License, excluding components subject to different legal conditions.
 
-«Versión modificada»: una adaptación o derivación del Material cubierto que incorpora modificaciones protegidas por derecho de autor.
+“Modified Version” means an adaptation or derivative of Covered Material that incorporates copyright-protected modifications.
 
-3. PERMISOS DE DERECHO DE AUTOR
+3. COPYRIGHT PERMISSIONS
 
-Sujeto al cumplimiento de las condiciones de esta Licencia, cada Otorgante concede al Destinatario, sobre los derechos de autor que puede licenciar, una autorización mundial, no exclusiva, gratuita, libre de regalías y de duración equivalente al plazo legal de los derechos correspondientes, irrevocable excepto en los supuestos de terminación aquí previstos, para:
+Subject to compliance with this License, each Licensor grants each Recipient, with respect to the copyrights that the Licensor is able to license, a worldwide, non-exclusive, royalty-free, no-charge license, for a duration equal to the applicable legal term of those rights, and irrevocable except as provided in this License, to:
 
-a) Usar, ejecutar, reproducir, estudiar y analizar el Material cubierto para cualquier propósito, incluido el comercial.
+a) Use, run, reproduce, study, and analyze the Covered Material for any purpose, including commercial purposes.
 
-b) Modificarlo, adaptarlo, traducirlo, compilarlo y producir versiones derivadas.
+b) Modify, adapt, translate, compile, and create derivative versions of it.
 
-c) Distribuirlo, publicarlo, comunicarlo, ofrecerlo, venderlo, importarlo y transmitirlo, en forma fuente o ejecutable.
+c) Distribute, publish, communicate, offer, sell, import, and transmit it in source or executable form.
 
-d) Incorporarlo en obras mayores, incluidas aplicaciones de distribución cerrada.
+d) Incorporate it into larger works, including closed-distribution applications.
 
-e) Permitir que otras personas reciban y ejerzan los derechos que esta Licencia concede directamente sobre el Material cubierto.
+e) Permit other persons to receive and exercise the rights that this License grants directly over the Covered Material.
 
-No es necesario registrarse, solicitar autorización particular, revelar el código fuente de las modificaciones propias ni pagar regalías para ejercer estos permisos.
+No registration, individual permission request, disclosure of the Recipient’s own modifications, or royalty payment is required to exercise these permissions.
 
-Los Destinatarios podrán establecer condiciones sobre sus aportes originales y sobre la obra mayor, siempre que respeten los derechos y las condiciones que siguen aplicándose al Material cubierto.
+Recipients may set conditions on their original contributions and on a larger work, provided that they respect the rights and conditions that continue to apply to the Covered Material.
 
-4. CONCESIÓN DE PATENTES
+4. PATENT GRANT
 
-Cada Otorgante que aporta Material cubierto concede al Destinatario, en la medida de sus facultades, una licencia mundial, no exclusiva, gratuita, libre de regalías y de duración equivalente al plazo de protección aplicable para fabricar, encargar la fabricación, usar, ofrecer, vender, importar y distribuir dicho Material cubierto en cuanto a las reivindicaciones de patente de ese Otorgante necesariamente infringidas por su Contribución, por sí misma o por su combinación con la Obra a la que fue presentada en el momento de incorporarse.
+Each Licensor that contributes Covered Material grants each Recipient, to the extent of the Licensor’s authority, a worldwide, non-exclusive, royalty-free, no-charge license, for a duration equal to the applicable term of protection, to make, have made, use, offer to sell, sell, import, and otherwise distribute that Covered Material, but only with respect to patent claims of that Licensor that are necessarily infringed by the Licensor’s Contribution, alone or by its combination with the Work to which the Contribution was submitted at the time it was incorporated.
 
-Esta concesión no alcanza patentes de terceros, reivindicaciones que no resulten necesariamente infringidas ni combinaciones posteriores que introduzcan una infracción distinta.
+This grant does not cover third-party patents, claims that are not necessarily infringed, or later combinations that introduce a different infringement.
 
-Si un Destinatario inicia una acción judicial afirmativa de patente alegando que el Material cubierto, tal como fue autorizado, infringe una patente de ese Destinatario, terminarán las concesiones de patente que dicho Destinatario recibió bajo esta sección para el Material cubierto objeto de esa acción, en la medida permitida por la ley.
+If a Recipient initiates an affirmative patent lawsuit alleging that Covered Material, as authorized, infringes a patent of that Recipient, the patent grants that Recipient received under this section for the Covered Material concerned by that lawsuit will terminate, to the extent permitted by law.
 
-Esta terminación no revoca por sí misma los permisos de derecho de autor.
+This termination does not by itself revoke copyright permissions.
 
-5. CONDICIONES DE REDISTRIBUCIÓN
+5. REDISTRIBUTION CONDITIONS
 
-Quien entregue a otra persona copias del Material cubierto, con o sin modificaciones, deberá:
+Anyone who delivers copies of Covered Material to another person, with or without modifications, must:
 
-a) Acompañar las copias con el texto íntegro de esta Licencia y su número de versión en un archivo o soporte razonablemente accesible.
+a) Accompany the copies with the complete text of this License and its version number in a reasonably accessible file or medium.
 
-b) Conservar los avisos de derecho de autor, licencia, atribución y patentes incluidos por los titulares anteriores que sean pertinentes al material redistribuido.
+b) Preserve relevant copyright, license, attribution, and patent notices included by prior rights holders for the material being redistributed.
 
-c) Identificar de forma razonablemente accesible que ha realizado modificaciones al Material cubierto, cuando corresponda.
+c) Identify in a reasonably accessible manner any modifications made to Covered Material, when applicable.
 
-d) Respetar y entregar los avisos que exijan las licencias de componentes de terceros que acompañen la distribución.
+d) Respect and provide notices required by licenses for third-party components distributed with the material.
 
-Las condiciones anteriores pueden cumplirse mediante archivos LICENSE, NOTICE, CHANGES u otra documentación accesible que acompañe al producto.
+The conditions above may be satisfied through LICENSE, NOTICE, CHANGES, or other accessible documentation accompanying the product.
 
-No se exige insertar logotipos, insignias, publicidad ni créditos visibles en la interfaz de ejecución.
+No logos, badges, advertising, or visible credits in the runtime interface are required.
 
-Un enlace web puede incluirse como referencia adicional, pero no sustituye el texto íntegro que debe acompañar la distribución conforme a esta sección.
+A web link may be included as an additional reference, but it does not replace the complete text that must accompany distribution under this section.
 
-No se exige publicar el código fuente de las modificaciones propias. Los titulares de esas modificaciones podrán licenciarlas separadamente, sin alterar los permisos directos sobre el Material cubierto original.
+Publication of the Recipient’s own source-code modifications is not required. Rights holders of those modifications may license them separately without changing the direct permissions over the original Covered Material.
 
-6. IDENTIDAD, MARCAS Y ATRIBUCIÓN LEGÍTIMA
+6. IDENTITY, TRADEMARKS, AND LAWFUL ATTRIBUTION
 
-La presente Licencia no concede derechos para adoptar, registrar o explotar nombres comerciales, marcas, logotipos, nombres de dominio ni otros signos distintivos de un Otorgante como identidad o patrocinio de otro producto o servicio.
+This License does not grant permission to adopt, register, or exploit a Licensor’s trade names, trademarks, logos, domain names, or other distinctive signs as the identity or sponsorship of another product or service.
 
-Esta reserva no impide menciones veraces y legalmente permitidas sobre procedencia, compatibilidad, atribución, autoría ni reproducción de avisos legales.
+This reservation does not prevent truthful and legally permitted references to origin, compatibility, attribution, authorship, or reproduction of legal notices.
 
-La autorización especial sobre una marca deberá proceder de su titular o de alguien facultado para concederla, mediante condiciones separadas.
+Specific permission concerning a trademark must come from its rights holder or from a person authorized to grant it, under separate conditions.
 
-7. CONTRIBUCIONES
+7. CONTRIBUTIONS
 
-Una aportación expresamente presentada por su titular para su incorporación a un proyecto que se identifica bajo esta Licencia podrá ser ofrecida bajo estos mismos términos si dicho titular tiene las facultades suficientes y ese propósito resulta claro de la presentación o de una declaración expresa.
+A contribution expressly submitted by its rights holder for incorporation into a project identified under this License may be offered under these same terms if that rights holder has sufficient authority and that purpose is clear from the submission or from an express statement.
 
-Un reporte de error, una pregunta, una idea o una comunicación informal no constituye por sí mismo una cesión de derechos sobre material protegido.
+A bug report, question, idea, or informal communication does not by itself constitute a transfer of rights in protected material.
 
-Esta Licencia no transfiere automáticamente a los mantenedores la titularidad de las Contribuciones.
+This License does not automatically transfer ownership of Contributions to maintainers.
 
-Las partes pueden formalizar acuerdos adicionales de contribución dentro de los derechos que controlan.
+The parties may enter additional contribution agreements concerning rights they control.
 
-8. CONTACTO Y ACUERDOS DIRECTOS VOLUNTARIOS
+8. CONTACT AND VOLUNTARY DIRECT AGREEMENTS
 
-Cada Otorgante podrá publicar, opcionalmente, un correo, sitio web u otro medio de contacto para atender dudas, propuestas o solicitudes de permisos adicionales.
+Each Licensor may optionally publish an email address, website, or other contact method for questions, proposals, or requests for additional permission.
 
-No tiene obligación de mantener ese medio, responder ni aceptar propuestas.
+No Licensor is required to maintain that method, respond, or accept proposals.
 
-El ejercicio de los derechos concedidos por esta Licencia no depende de contactar al Otorgante, registrarse, aceptar contratos adicionales ni utilizar un servicio específico.
+Exercise of rights granted by this License does not depend on contacting a Licensor, registering, accepting additional contracts, or using a specific service.
 
-Las partes podrán pactar por separado permisos adicionales o condiciones específicas sobre derechos que efectivamente puedan conceder.
+The parties may separately agree to additional permissions or specific conditions concerning rights they can actually grant.
 
-Para documentarlos, se recomienda identificar a las partes, el material, el alcance del permiso, la duración, las condiciones y una evidencia verificable de aceptación.
+For documentation, the parties are encouraged to identify the parties, material, permission scope, duration, conditions, date, and verifiable evidence of acceptance.
 
-Tales acuerdos no reducen los derechos ya concedidos a destinatarios ajenos al acuerdo ni otorgan facultades sobre derechos de terceros sin su autorización.
+Those agreements do not reduce rights already granted to recipients who are not parties to the agreement and do not grant authority over third-party rights without authorization.
 
-9. AUSENCIA DE PATROCINIO, SOPORTE O RELACIÓN COMERCIAL
+9. NO SPONSORSHIP, SUPPORT, OR COMMERCIAL RELATIONSHIP
 
-El uso, la modificación o la redistribución del Material cubierto no significa que el Otorgante apruebe, patrocine, certifique, respalde o participe en un producto o actividad del Destinatario.
+Use, modification, or redistribution of Covered Material does not mean that a Licensor approves, sponsors, certifies, endorses, or participates in a Recipient’s product or activity.
 
-Ningún Otorgante asume, por esta Licencia, obligaciones de mantenimiento, actualización, seguridad, asistencia, disponibilidad, continuidad comercial ni adaptación a necesidades específicas.
+No Licensor assumes, through this License, duties of maintenance, updates, security, assistance, availability, business continuity, or adaptation to particular requirements.
 
-Quien ofrezca soporte, garantías o servicios adicionales deberá hacerlo en nombre propio, salvo autorización expresa de otro titular.
+Anyone offering support, warranties, or additional services must do so in that person’s own name, unless expressly authorized by another rights holder.
 
-10. SUMINISTRO TAL COMO ESTÁ Y AUSENCIA DE GARANTÍAS
+10. AS-IS SUPPLY AND DISCLAIMER OF WARRANTIES
 
-En la máxima medida admitida por la legislación aplicable, el Material cubierto se ofrece «TAL COMO ESTÁ» y «SEGÚN DISPONIBILIDAD», sin garantías o condiciones expresas ni implícitas, incluidas —cuando su exclusión sea válida— las relativas a funcionamiento, seguridad, ausencia de errores, comercialización, aptitud para un fin, titularidad o no infracción de derechos de terceros.
+To the maximum extent permitted by applicable law, Covered Material is provided “AS IS” and “AS AVAILABLE,” without express or implied warranties or conditions, including, where exclusion is valid, warranties or conditions concerning operation, security, freedom from errors, merchantability, fitness for a particular purpose, title, or non-infringement of third-party rights.
 
-Cada Destinatario determina por su cuenta si el Material cubierto es adecuado para su propósito y si su uso cumple las normas aplicables.
+Each Recipient independently determines whether Covered Material is suitable for the Recipient’s purpose and whether its use complies with applicable rules.
 
-Ninguna disposición de esta sección excluye garantías cuya exclusión esté prohibida por normas imperativas.
+Nothing in this section excludes warranties whose exclusion is prohibited by mandatory law.
 
-11. LIMITACIÓN DE RESPONSABILIDAD Y ACTOS DE TERCEROS
+11. LIMITATION OF LIABILITY AND ACTS OF THIRD PARTIES
 
-En la máxima medida permitida por la legislación aplicable, ningún Otorgante ni contribuyente responderá por daños directos o indirectos, pérdida de beneficios, interrupción de actividades, pérdida de información, fallos informáticos, reclamaciones de terceros u otros perjuicios derivados del uso, imposibilidad de uso, modificación o redistribución del Material cubierto, cualquiera sea el fundamento jurídico invocado, salvo que una norma imperativa o un acuerdo válido imponga responsabilidad.
+To the maximum extent permitted by applicable law, no Licensor or contributor will be liable for direct or indirect damages, lost profits, business interruption, loss of information, computer failures, third-party claims, or other harm arising from use, inability to use, modification, or redistribution of Covered Material, under any legal theory, unless mandatory law or a valid agreement imposes liability.
 
-Cada Destinatario responde por sus propias acciones, afirmaciones, actividades y productos.
+Each Recipient is responsible for the Recipient’s own actions, statements, activities, and products.
 
-Esta Licencia no autoriza conductas ilícitas ni hace responsable automáticamente al Otorgante por actos independientes de otros usuarios.
+This License does not authorize unlawful conduct and does not automatically make a Licensor responsible for independent acts of other users.
 
-Nada de lo anterior exonera responsabilidades que la ley no permita excluir, incluidas, cuando correspondan, las vinculadas con dolo, fraude, culpa grave, daños personales u otras materias especialmente protegidas.
+Nothing above excludes liability that the law does not permit to be excluded, including, where applicable, liability involving willful misconduct, fraud, gross negligence, personal injury, or other specially protected matters.
 
-El redactor o editor del modelo de esta Licencia no adquiere obligaciones sobre los proyectos de terceros por el solo hecho de que esos proyectos adopten su texto.
+The author or editor of this License model assumes no obligations concerning third-party projects merely because those projects adopt its text.
 
-12. INCUMPLIMIENTO Y OPORTUNIDAD DE SUBSANACIÓN
+12. BREACH AND OPPORTUNITY TO CURE
 
-Los permisos concedidos se condicionan al respeto de las obligaciones que esta Licencia establece.
+The permissions granted are conditioned on compliance with the obligations established by this License.
 
-Los actos que excedan los permisos otorgados no quedan autorizados por ella.
+Acts exceeding the permissions granted are not authorized by this License.
 
-Si un Otorgante detecta un incumplimiento subsanable, podrá notificarlo por escrito, indicando de manera razonable los hechos y la corrección solicitada.
+If a Licensor identifies a curable breach, the Licensor may notify the Recipient in writing, reasonably describing the facts and the requested correction.
 
-El Destinatario tendrá treinta (30) días naturales contados desde la recepción de la notificación para corregirlo.
+The Recipient will have thirty (30) calendar days from receipt of the notice to cure the breach.
 
-La corrección oportuna restablecerá o mantendrá los permisos afectados en la medida permitida por la ley, sin borrar responsabilidades ya devengadas.
+Timely cure will restore or maintain the affected permissions to the extent permitted by law, without erasing liabilities already incurred.
 
-Si transcurre ese plazo sin subsanación, terminarán respecto del Destinatario infractor los permisos de ese Otorgante sobre el Material cubierto afectado, sin perjuicio de las acciones legales disponibles.
+If the period expires without cure, the permissions from that Licensor concerning the affected Covered Material will terminate with respect to the breaching Recipient, without prejudice to available legal remedies.
 
-Una autorización posterior podrá concederse expresamente.
+A later authorization may be granted expressly.
 
-Las consecuencias derivadas de las reclamaciones de patentes se rigen por la sección 4.
+Consequences arising from patent claims are governed by Section 4.
 
-Los derechos previamente obtenidos por otros Destinatarios que cumplan esta Licencia no se extinguen automáticamente por el incumplimiento de una persona distinta.
+Rights previously obtained by other Recipients who comply with this License do not automatically terminate because of another person’s breach.
 
-Esta Licencia no establece multas privadas automáticas, delitos, sanciones penales ni indemnizaciones predeterminadas.
+This License does not establish automatic private fines, criminal offenses, criminal penalties, or predetermined damages.
 
-Cualquier medida de cese, reparación o indemnización deberá sustentarse en la legislación aplicable y en los hechos probados.
+Any injunction, remedy, or damages must be supported by applicable law and proven facts.
 
-13. DERECHOS DE TERCEROS Y NORMAS IMPERATIVAS
+13. THIRD-PARTY RIGHTS AND MANDATORY RULES
 
-Ninguna disposición concede derechos que un Otorgante no posea o esté autorizado a licenciar.
+Nothing in this License grants rights that a Licensor does not own or is not authorized to license.
 
-Los derechos de terceros y las obligaciones de otras licencias permanecen vigentes.
+Third-party rights and obligations under other licenses remain in force.
 
-Esta Licencia no altera las excepciones legales al derecho de autor, los derechos irrenunciables, las normas imperativas de consumo, privacidad, competencia ni otros requisitos aplicables al uso o distribución del Material cubierto.
+This License does not alter legal exceptions to copyright, non-waivable rights, mandatory consumer, privacy, competition, or other rules applicable to the use or distribution of Covered Material.
 
-14. INTERPRETACIÓN Y DIVISIBILIDAD
+14. INTERPRETATION AND SEVERABILITY
 
-Si una cláusula resulta inválida o inaplicable en una jurisdicción, las demás se mantendrán en vigor en la medida en que puedan aplicarse sin alterar los permisos esenciales de esta Licencia.
+If a provision is invalid or unenforceable in a jurisdiction, the remaining provisions will remain in effect to the extent they can operate without changing the essential permissions of this License.
 
-Esta Licencia no impone un tribunal único ni reemplaza las reglas aplicables de derecho internacional privado.
+This License does not require a single forum and does not replace applicable private international law rules.
 
-La ley competente y los remedios disponibles se determinarán conforme a las normas aplicables a cada controversia.
+Applicable law and available remedies will be determined under the rules applicable to each dispute.
 
-Una traducción no prevalecerá sobre el texto que la publicación de la Obra identifique expresamente como versión lingüística autorizada.
+For this RC2 candidate, this English text is the controlling legal text. Any translation is informative only unless a future publication expressly identifies that translation as an authorized language version.
 
-Si existen varias versiones lingüísticas oficiales, sus titulares deberán definir su relación antes de adoptarlas.
+If multiple language versions are later designated as official, their relationship must be stated by the relevant rights holders before adoption.
 
-15. VIGENCIA Y VERSIONES
+15. TERM AND VERSIONS
 
-La Licencia rige para el Material cubierto expresamente identificado con la versión aquí indicada.
+This License governs Covered Material expressly identified with the version stated here.
 
-Su duración es la de los derechos que legítimamente conceden los respectivos Otorgantes, con sujeción a las reglas de terminación previstas.
+Its duration is the duration of the rights lawfully granted by the respective Licensors, subject to the termination rules provided here.
 
-Cada edición publicada como versión estable deberá conservar un texto inalterado e identificable.
+Each edition published as a stable version must preserve an unaltered and identifiable text.
 
-Ninguna edición posterior modifica automáticamente los derechos concedidos sobre versiones anteriores del Material cubierto.
+No later edition automatically changes rights granted for earlier versions of Covered Material.
 
-Cada Otorgante podrá seleccionar una versión futura distinta para nuevas publicaciones de materiales cuyos derechos controle, sin retirar derechos previamente concedidos a otros Destinatarios ni modificar derechos de terceros.
+Each Licensor may select a different future version for new publications of material over which that Licensor has control, without withdrawing rights previously granted to other Recipients or changing third-party rights.
 
-El nombre «A2lony Open License» puede utilizarse para identificar fielmente este texto de licencia y su versión.
+The name “A2lony Open License” may be used to identify this license text and its version accurately.
 
-Esta Licencia no concede por ello derechos de patrocinio ni sobre logotipos u otras marcas de proyectos concretos.
+This License does not thereby grant sponsorship rights or rights in logos or other marks of particular projects.
 
-FIN DE A2LONY OPEN LICENSE — VERSIÓN 1.0 RC1
+END OF A2LONY OPEN LICENSE — VERSION 1.0 RC2

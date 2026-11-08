@@ -5,7 +5,7 @@ This optional template records a separate agreement. It does not replace legal a
 - **Authorized rights holder:**
 - **Beneficiary:**
 - **Covered material:**
-- **Applicable license version:** A2lony Open License 1.0 RC1
+- **Applicable license version:** A2lony Open License 1.0 RC2
 - **Additional permission requested or granted:**
 - **Duration:**
 - **Economic terms, if any:**
