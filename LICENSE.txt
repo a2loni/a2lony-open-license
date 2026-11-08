@@ -1,0 +1,193 @@
+A2LONY OPEN LICENSE
+
+Versión 1.0 — RC1
+
+1. OBJETO Y ALCANCE
+
+Esta licencia establece los permisos y condiciones aplicables a la obra que un titular de derechos identifique expresamente como distribuida bajo la A2lony Open License, Versión 1.0 RC1 (la «Licencia»).
+
+La Licencia se aplica únicamente al material sobre el cual cada otorgante tenga facultades suficientes para conceder los derechos indicados. No cambia las licencias de los componentes de terceros incluidos o distribuidos junto con la obra.
+
+2. DEFINICIONES
+
+«Obra»: el software y otros materiales identificados expresamente por su titular como sujetos a esta Licencia, en código fuente, forma ejecutable u otra forma protegida.
+
+«Otorgante»: toda persona física o jurídica que, siendo titular o estando suficientemente autorizada, concede permisos sobre la Obra o una Contribución bajo esta Licencia.
+
+«Destinatario»: toda persona física o jurídica que recibe la Obra o ejerce los permisos otorgados por esta Licencia.
+
+«Contribución»: una modificación, adición u otro material expresamente ofrecido por su titular para incorporarse a la Obra bajo esta Licencia.
+
+«Material cubierto»: la Obra y las Contribuciones sujetas a esta Licencia, con exclusión de los componentes sujetos a condiciones jurídicas diferentes.
+
+«Versión modificada»: una adaptación o derivación del Material cubierto que incorpora modificaciones protegidas por derecho de autor.
+
+3. PERMISOS DE DERECHO DE AUTOR
+
+Sujeto al cumplimiento de las condiciones de esta Licencia, cada Otorgante concede al Destinatario, sobre los derechos de autor que puede licenciar, una autorización mundial, no exclusiva, gratuita, libre de regalías y de duración equivalente al plazo legal de los derechos correspondientes, irrevocable excepto en los supuestos de terminación aquí previstos, para:
+
+a) Usar, ejecutar, reproducir, estudiar y analizar el Material cubierto para cualquier propósito, incluido el comercial.
+
+b) Modificarlo, adaptarlo, traducirlo, compilarlo y producir versiones derivadas.
+
+c) Distribuirlo, publicarlo, comunicarlo, ofrecerlo, venderlo, importarlo y transmitirlo, en forma fuente o ejecutable.
+
+d) Incorporarlo en obras mayores, incluidas aplicaciones de distribución cerrada.
+
+e) Permitir que otras personas reciban y ejerzan los derechos que esta Licencia concede directamente sobre el Material cubierto.
+
+No es necesario registrarse, solicitar autorización particular, revelar el código fuente de las modificaciones propias ni pagar regalías para ejercer estos permisos.
+
+Los Destinatarios podrán establecer condiciones sobre sus aportes originales y sobre la obra mayor, siempre que respeten los derechos y las condiciones que siguen aplicándose al Material cubierto.
+
+4. CONCESIÓN DE PATENTES
+
+Cada Otorgante que aporta Material cubierto concede al Destinatario, en la medida de sus facultades, una licencia mundial, no exclusiva, gratuita, libre de regalías y de duración equivalente al plazo de protección aplicable para fabricar, encargar la fabricación, usar, ofrecer, vender, importar y distribuir dicho Material cubierto en cuanto a las reivindicaciones de patente de ese Otorgante necesariamente infringidas por su Contribución, por sí misma o por su combinación con la Obra a la que fue presentada en el momento de incorporarse.
+
+Esta concesión no alcanza patentes de terceros, reivindicaciones que no resulten necesariamente infringidas ni combinaciones posteriores que introduzcan una infracción distinta.
+
+Si un Destinatario inicia una acción judicial afirmativa de patente alegando que el Material cubierto, tal como fue autorizado, infringe una patente de ese Destinatario, terminarán las concesiones de patente que dicho Destinatario recibió bajo esta sección para el Material cubierto objeto de esa acción, en la medida permitida por la ley.
+
+Esta terminación no revoca por sí misma los permisos de derecho de autor.
+
+5. CONDICIONES DE REDISTRIBUCIÓN
+
+Quien entregue a otra persona copias del Material cubierto, con o sin modificaciones, deberá:
+
+a) Acompañar las copias con el texto íntegro de esta Licencia y su número de versión en un archivo o soporte razonablemente accesible.
+
+b) Conservar los avisos de derecho de autor, licencia, atribución y patentes incluidos por los titulares anteriores que sean pertinentes al material redistribuido.
+
+c) Identificar de forma razonablemente accesible que ha realizado modificaciones al Material cubierto, cuando corresponda.
+
+d) Respetar y entregar los avisos que exijan las licencias de componentes de terceros que acompañen la distribución.
+
+Las condiciones anteriores pueden cumplirse mediante archivos LICENSE, NOTICE, CHANGES u otra documentación accesible que acompañe al producto.
+
+No se exige insertar logotipos, insignias, publicidad ni créditos visibles en la interfaz de ejecución.
+
+Un enlace web puede incluirse como referencia adicional, pero no sustituye el texto íntegro que debe acompañar la distribución conforme a esta sección.
+
+No se exige publicar el código fuente de las modificaciones propias. Los titulares de esas modificaciones podrán licenciarlas separadamente, sin alterar los permisos directos sobre el Material cubierto original.
+
+6. IDENTIDAD, MARCAS Y ATRIBUCIÓN LEGÍTIMA
+
+La presente Licencia no concede derechos para adoptar, registrar o explotar nombres comerciales, marcas, logotipos, nombres de dominio ni otros signos distintivos de un Otorgante como identidad o patrocinio de otro producto o servicio.
+
+Esta reserva no impide menciones veraces y legalmente permitidas sobre procedencia, compatibilidad, atribución, autoría ni reproducción de avisos legales.
+
+La autorización especial sobre una marca deberá proceder de su titular o de alguien facultado para concederla, mediante condiciones separadas.
+
+7. CONTRIBUCIONES
+
+Una aportación expresamente presentada por su titular para su incorporación a un proyecto que se identifica bajo esta Licencia podrá ser ofrecida bajo estos mismos términos si dicho titular tiene las facultades suficientes y ese propósito resulta claro de la presentación o de una declaración expresa.
+
+Un reporte de error, una pregunta, una idea o una comunicación informal no constituye por sí mismo una cesión de derechos sobre material protegido.
+
+Esta Licencia no transfiere automáticamente a los mantenedores la titularidad de las Contribuciones.
+
+Las partes pueden formalizar acuerdos adicionales de contribución dentro de los derechos que controlan.
+
+8. CONTACTO Y ACUERDOS DIRECTOS VOLUNTARIOS
+
+Cada Otorgante podrá publicar, opcionalmente, un correo, sitio web u otro medio de contacto para atender dudas, propuestas o solicitudes de permisos adicionales.
+
+No tiene obligación de mantener ese medio, responder ni aceptar propuestas.
+
+El ejercicio de los derechos concedidos por esta Licencia no depende de contactar al Otorgante, registrarse, aceptar contratos adicionales ni utilizar un servicio específico.
+
+Las partes podrán pactar por separado permisos adicionales o condiciones específicas sobre derechos que efectivamente puedan conceder.
+
+Para documentarlos, se recomienda identificar a las partes, el material, el alcance del permiso, la duración, las condiciones y una evidencia verificable de aceptación.
+
+Tales acuerdos no reducen los derechos ya concedidos a destinatarios ajenos al acuerdo ni otorgan facultades sobre derechos de terceros sin su autorización.
+
+9. AUSENCIA DE PATROCINIO, SOPORTE O RELACIÓN COMERCIAL
+
+El uso, la modificación o la redistribución del Material cubierto no significa que el Otorgante apruebe, patrocine, certifique, respalde o participe en un producto o actividad del Destinatario.
+
+Ningún Otorgante asume, por esta Licencia, obligaciones de mantenimiento, actualización, seguridad, asistencia, disponibilidad, continuidad comercial ni adaptación a necesidades específicas.
+
+Quien ofrezca soporte, garantías o servicios adicionales deberá hacerlo en nombre propio, salvo autorización expresa de otro titular.
+
+10. SUMINISTRO TAL COMO ESTÁ Y AUSENCIA DE GARANTÍAS
+
+En la máxima medida admitida por la legislación aplicable, el Material cubierto se ofrece «TAL COMO ESTÁ» y «SEGÚN DISPONIBILIDAD», sin garantías o condiciones expresas ni implícitas, incluidas —cuando su exclusión sea válida— las relativas a funcionamiento, seguridad, ausencia de errores, comercialización, aptitud para un fin, titularidad o no infracción de derechos de terceros.
+
+Cada Destinatario determina por su cuenta si el Material cubierto es adecuado para su propósito y si su uso cumple las normas aplicables.
+
+Ninguna disposición de esta sección excluye garantías cuya exclusión esté prohibida por normas imperativas.
+
+11. LIMITACIÓN DE RESPONSABILIDAD Y ACTOS DE TERCEROS
+
+En la máxima medida permitida por la legislación aplicable, ningún Otorgante ni contribuyente responderá por daños directos o indirectos, pérdida de beneficios, interrupción de actividades, pérdida de información, fallos informáticos, reclamaciones de terceros u otros perjuicios derivados del uso, imposibilidad de uso, modificación o redistribución del Material cubierto, cualquiera sea el fundamento jurídico invocado, salvo que una norma imperativa o un acuerdo válido imponga responsabilidad.
+
+Cada Destinatario responde por sus propias acciones, afirmaciones, actividades y productos.
+
+Esta Licencia no autoriza conductas ilícitas ni hace responsable automáticamente al Otorgante por actos independientes de otros usuarios.
+
+Nada de lo anterior exonera responsabilidades que la ley no permita excluir, incluidas, cuando correspondan, las vinculadas con dolo, fraude, culpa grave, daños personales u otras materias especialmente protegidas.
+
+El redactor o editor del modelo de esta Licencia no adquiere obligaciones sobre los proyectos de terceros por el solo hecho de que esos proyectos adopten su texto.
+
+12. INCUMPLIMIENTO Y OPORTUNIDAD DE SUBSANACIÓN
+
+Los permisos concedidos se condicionan al respeto de las obligaciones que esta Licencia establece.
+
+Los actos que excedan los permisos otorgados no quedan autorizados por ella.
+
+Si un Otorgante detecta un incumplimiento subsanable, podrá notificarlo por escrito, indicando de manera razonable los hechos y la corrección solicitada.
+
+El Destinatario tendrá treinta (30) días naturales contados desde la recepción de la notificación para corregirlo.
+
+La corrección oportuna restablecerá o mantendrá los permisos afectados en la medida permitida por la ley, sin borrar responsabilidades ya devengadas.
+
+Si transcurre ese plazo sin subsanación, terminarán respecto del Destinatario infractor los permisos de ese Otorgante sobre el Material cubierto afectado, sin perjuicio de las acciones legales disponibles.
+
+Una autorización posterior podrá concederse expresamente.
+
+Las consecuencias derivadas de las reclamaciones de patentes se rigen por la sección 4.
+
+Los derechos previamente obtenidos por otros Destinatarios que cumplan esta Licencia no se extinguen automáticamente por el incumplimiento de una persona distinta.
+
+Esta Licencia no establece multas privadas automáticas, delitos, sanciones penales ni indemnizaciones predeterminadas.
+
+Cualquier medida de cese, reparación o indemnización deberá sustentarse en la legislación aplicable y en los hechos probados.
+
+13. DERECHOS DE TERCEROS Y NORMAS IMPERATIVAS
+
+Ninguna disposición concede derechos que un Otorgante no posea o esté autorizado a licenciar.
+
+Los derechos de terceros y las obligaciones de otras licencias permanecen vigentes.
+
+Esta Licencia no altera las excepciones legales al derecho de autor, los derechos irrenunciables, las normas imperativas de consumo, privacidad, competencia ni otros requisitos aplicables al uso o distribución del Material cubierto.
+
+14. INTERPRETACIÓN Y DIVISIBILIDAD
+
+Si una cláusula resulta inválida o inaplicable en una jurisdicción, las demás se mantendrán en vigor en la medida en que puedan aplicarse sin alterar los permisos esenciales de esta Licencia.
+
+Esta Licencia no impone un tribunal único ni reemplaza las reglas aplicables de derecho internacional privado.
+
+La ley competente y los remedios disponibles se determinarán conforme a las normas aplicables a cada controversia.
+
+Una traducción no prevalecerá sobre el texto que la publicación de la Obra identifique expresamente como versión lingüística autorizada.
+
+Si existen varias versiones lingüísticas oficiales, sus titulares deberán definir su relación antes de adoptarlas.
+
+15. VIGENCIA Y VERSIONES
+
+La Licencia rige para el Material cubierto expresamente identificado con la versión aquí indicada.
+
+Su duración es la de los derechos que legítimamente conceden los respectivos Otorgantes, con sujeción a las reglas de terminación previstas.
+
+Cada edición publicada como versión estable deberá conservar un texto inalterado e identificable.
+
+Ninguna edición posterior modifica automáticamente los derechos concedidos sobre versiones anteriores del Material cubierto.
+
+Cada Otorgante podrá seleccionar una versión futura distinta para nuevas publicaciones de materiales cuyos derechos controle, sin retirar derechos previamente concedidos a otros Destinatarios ni modificar derechos de terceros.
+
+El nombre «A2lony Open License» puede utilizarse para identificar fielmente este texto de licencia y su versión.
+
+Esta Licencia no concede por ello derechos de patrocinio ni sobre logotipos u otras marcas de proyectos concretos.
+
+FIN DE A2LONY OPEN LICENSE — VERSIÓN 1.0 RC1
